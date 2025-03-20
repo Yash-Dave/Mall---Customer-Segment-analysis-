@@ -59,7 +59,7 @@ This project uses a public dataset, `Mall_Customers.csv`, and enhances it with *
 ## **🚀 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Yash-Dave/Mall---Customer-Segment-analysis-.git
+git clone https://github.com/Yash-Dave/Mall-Customer-Segment-analysis.git
 ```
 
 ### **2️⃣ Install Dependencies**
